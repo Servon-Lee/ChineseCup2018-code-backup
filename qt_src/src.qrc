@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>src/logo.png</file>
+        <file>src/min.png</file>
+        <file>src/max1.png</file>
+        <file>src/max2.png</file>
+        <file>src/exit.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qss.qss</file>
+    </qresource>
+</RCC>
